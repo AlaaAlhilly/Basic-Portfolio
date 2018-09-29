@@ -62,12 +62,13 @@ ul {
 
 li {
     float: right;
-    border-left: #777 solid 1px;
+    border-right: #777 solid 1px;
 }
 .name{
     float: left;
     color: #ffffff;
     background-color: #4aaaa5;
+    border: none;
 }
 li a {
     display: block;
